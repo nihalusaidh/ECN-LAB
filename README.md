@@ -16,23 +16,28 @@
 
 *5.	Bread board	---	1*
 
+CIRCUIT DIAGRAM:
+
+<img width="287" height="402" alt="Screenshot 2025-10-20 202021" src="https://github.com/user-attachments/assets/03b514ae-ec3f-492f-90b7-ecd53c55d391" />
+
 **THEORY:**
 
 *Kirchhoff’s Current Law (KCL) states that, ‘in an electric network, the algebraic sum of currents meeting at any junction is zero’. Since charges can never accumulate at any point, the charges flowing towards a junction must be equal to the charges flowing away from the junction.*
 
 *Kirchhoff’s Voltage Law (KVL) states that, ‘in an electric network, the algebraic sum of voltages in a closed path is zero’. Since potential at a point is a single value, the sum of all potential drops must be equal when traversing a closed path and coming back to the same point*
 
-**CIRCUIT DIAGRAM:**
+CALCULATION:
+
+<img width="261" height="277" alt="Screenshot 2025-10-20 202041" src="https://github.com/user-attachments/assets/8cb03bfc-f727-4492-a980-8e70d5cbaaa1" />
 
 
+TABULATION:
 
+<img width="335" height="214" alt="Screenshot 2025-10-20 202053" src="https://github.com/user-attachments/assets/3781f448-9a05-4ea9-98b6-abbe33d9c418" />
 
+MARKSPLITUP:
 
-
-
-
-
-
+<img width="620" height="322" alt="Screenshot 2025-10-20 202106" src="https://github.com/user-attachments/assets/106e1614-1513-4c6f-b12e-77c3b9be3f07" />
 
 
 **PROCEDURE:**
@@ -49,7 +54,12 @@
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
 
+ 
+
 **RESULT:**
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
+
+<img width="361" height="116" alt="Screenshot 2025-10-20 202118" src="https://github.com/user-attachments/assets/05cb25b9-b9da-4b04-b85c-badd6cf55653" />
+
 
